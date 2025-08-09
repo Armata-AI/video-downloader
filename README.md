@@ -17,13 +17,13 @@ A simple, modern video downloader with MP3 conversion support. Download videos a
 
 ### Option 1: Ready-to-use Executable (Recommended)
 
-1. Go to [Releases](https://github.com/Armata-AI/video-downloader/releases/latest)
+1. Go to [Releases](https://github.com/AwesomeCodeCreator/video-downloader/releases/latest)
 2. Download `VideoDownloader.exe`
 3. Run it - that's it! No installation needed.
 
 ### Option 2: With Installer (Creates shortcuts)
 
-1. Download the release ZIP from [Releases](https://github.com/Armata-AI/video-downloader/releases/latest)
+1. Download the release ZIP from [Releases](https://github.com/AwesomeCodeCreator/video-downloader/releases/latest)
 2. Extract the ZIP file
 3. Run `Video_Downloader_Installer.bat`
 4. Follow the prompts for automatic installation with desktop shortcuts
@@ -31,7 +31,7 @@ A simple, modern video downloader with MP3 conversion support. Download videos a
 ### Option 3: Run from Source
 
 ```bash
-git clone https://github.com/Armata-AI/video-downloader.git
+git clone https://github.com/AwesomeCodeCreator/video-downloader.git
 cd video-downloader
 pip install -r requirements.txt
 python video_downloader.py
@@ -100,7 +100,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Support
 
-If you encounter any issues, please [open an issue](https://github.com/Armata-AI/video-downloader/issues) on GitHub.
+If you encounter any issues, please [open an issue](https://github.com/AwesomeCodeCreator/video-downloader/issues) on GitHub.
 
 ## Acknowledgments
 
@@ -110,4 +110,4 @@ If you encounter any issues, please [open an issue](https://github.com/Armata-AI
 
 ---
 
-**Made with ❤️ by Armata AI**
+**Made with ❤️ by AwesomeCodeCreator**
